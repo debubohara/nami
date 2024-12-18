@@ -1,0 +1,2 @@
+# nami
+go to git
